@@ -1,0 +1,134 @@
+{
+  "skills_definition": {
+    "frontend": "Desarrollo de interfaces de usuario (React, Angular, Vue)",
+    "backend": "Desarrollo de servidores y APIs (Node.js, Python, Java)",
+    "mobile": "Desarrollo de aplicaciones móviles (iOS, Android)",
+    "ux_ui": "Diseño de experiencia e interfaz de usuario",
+    "devops": "Infraestructura y operaciones (AWS, Docker, Kubernetes)",
+    "database": "Diseño y administración de bases de datos",
+    "data_science": "Análisis y procesamiento de datos",
+    "ai_ml": "Inteligencia artificial y machine learning",
+    "testing": "Pruebas de software y calidad",
+    "pm": "Gestión de proyectos y coordinación",
+    "documentation": "Documentación técnica y de usuario"
+  },
+  "skill_levels": {
+    "0.9-1.0": "Experto - Liderazgo técnico",
+    "0.7-0.8": "Avanzado - Trabajo independiente",
+    "0.5-0.6": "Intermedio - Con supervisión",
+    "0.3-0.4": "Básico - En aprendizaje",
+    "0.0-0.2": "Principiante - Necesita entrenamiento"
+  },
+  "skill_dependencies": {
+    "frontend": ["ux_ui"],
+    "backend": ["database"],
+    "mobile": ["frontend"],
+    "ai_ml": ["data_science", "backend"],
+    "data_science": ["backend", "database"],
+    "devops": ["backend"]
+  },
+  "skill_availability_analysis": {
+    "frontend": {
+      "total_experts": 8,
+      "total_advanced": 12,
+      "total_intermediate": 6,
+      "demand_ratio": 1.2
+    },
+    "backend": {
+      "total_experts": 10,
+      "total_advanced": 15,
+      "total_intermediate": 8,
+      "demand_ratio": 1.5
+    },
+    "mobile": {
+      "total_experts": 4,
+      "total_advanced": 6,
+      "total_intermediate": 4,
+      "demand_ratio": 0.9
+    },
+    "ux_ui": {
+      "total_experts": 5,
+      "total_advanced": 7,
+      "total_intermediate": 3,
+      "demand_ratio": 1.1
+    },
+    "devops": {
+      "total_experts": 3,
+      "total_advanced": 5,
+      "total_intermediate": 4,
+      "demand_ratio": 1.8
+    },
+    "database": {
+      "total_experts": 6,
+      "total_advanced": 8,
+      "total_intermediate": 5,
+      "demand_ratio": 1.3
+    },
+    "data_science": {
+      "total_experts": 5,
+      "total_advanced": 7,
+      "total_intermediate": 4,
+      "demand_ratio": 1.4
+    },
+    "ai_ml": {
+      "total_experts": 4,
+      "total_advanced": 5,
+      "total_intermediate": 3,
+      "demand_ratio": 1.6
+    },
+    "testing": {
+      "total_experts": 7,
+      "total_advanced": 10,
+      "total_intermediate": 8,
+      "demand_ratio": 0.8
+    },
+    "pm": {
+      "total_experts": 6,
+      "total_advanced": 8,
+      "total_intermediate": 4,
+      "demand_ratio": 1.2
+    },
+    "documentation": {
+      "total_experts": 8,
+      "total_advanced": 12,
+      "total_intermediate": 10,
+      "demand_ratio": 0.7
+    }
+  },
+  "critical_skills_gaps": [
+    {
+      "skill": "devops",
+      "gap_severity": "high",
+      "reason": "Alta demanda en proyectos críticos",
+      "suggested_actions": [
+        "Capacitación cruzada de desarrolladores backend",
+        "Contratación temporal especializada",
+        "Priorizar proyectos que requieren esta skill"
+      ]
+    },
+    {
+      "skill": "ai_ml",
+      "gap_severity": "medium",
+      "reason": "Crecimiento en proyectos de inteligencia artificial",
+      "suggested_actions": [
+        "Programa de mentoría interna",
+        "Asociación con proveedores externos",
+        "Reasignar recursos de data science"
+      ]
+    }
+  ],
+  "skill_development_recommendations": [
+    {
+      "skill": "devops",
+      "employees_to_train": ["EMP002", "EMP006", "EMP016", "EMP022"],
+      "training_priority": "high",
+      "estimated_timeline": "3 meses"
+    },
+    {
+      "skill": "ai_ml",
+      "employees_to_train": ["EMP003", "EMP007", "EMP018", "EMP025"],
+      "training_priority": "medium",
+      "estimated_timeline": "6 meses"
+    }
+  ]
+}

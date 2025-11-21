@@ -1,0 +1,119 @@
+project_id,project_name,employee_id,employee_name,assigned_hours_weekly,start_date,end_date
+PROJ001,E-commerce Platform Modernization,EMP009,Sofia Almeida Costa,7.61,2024-03-01,2024-09-27
+PROJ001,E-commerce Platform Modernization,EMP005,Laura Martínez Gómez,6.52,2024-03-01,2024-09-27
+PROJ001,E-commerce Platform Modernization,EMP010,Miguel Ángel Herrera,4.78,2024-03-01,2024-09-27
+PROJ001,E-commerce Platform Modernization,EMP002,Carlos López Martínez,6.09,2024-03-01,2024-09-27
+PROJ001,E-commerce Platform Modernization,EMP006,David Chen Wong,4.35,2024-03-01,2024-09-27
+PROJ001,E-commerce Platform Modernization,EMP022,Sergio Delgado Mora,4.78,2024-03-01,2024-09-27
+PROJ001,E-commerce Platform Modernization,EMP014,Alejandro Morales Ruiz,2.17,2024-03-01,2024-09-27
+PROJ001,E-commerce Platform Modernization,EMP013,Carmen Vega Castro,3.7,2024-03-01,2024-09-27
+PROJ002,Mobile Banking App Redesign,EMP009,Sofia Almeida Costa,9.86,2024-03-15,2024-08-02
+PROJ002,Mobile Banking App Redesign,EMP001,Ana García Rodríguez,9.01,2024-03-15,2024-08-02
+PROJ002,Mobile Banking App Redesign,EMP010,Miguel Ángel Herrera,6.2,2024-03-15,2024-08-02
+PROJ002,Mobile Banking App Redesign,EMP004,Javier Ruiz Díaz,7.04,2024-03-15,2024-08-02
+PROJ002,Mobile Banking App Redesign,EMP008,Roberto Santos Lima,7.89,2024-03-15,2024-08-02
+PROJ003,AI-Powered Customer Analytics,EMP026,Oscar Núñez Lira,3.7,2024-04-01,2024-12-23
+PROJ003,AI-Powered Customer Analytics,EMP018,Fernando Castro León,4.94,2024-04-01,2024-12-23
+PROJ003,AI-Powered Customer Analytics,EMP002,Carlos López Martínez,6.91,2024-04-01,2024-12-23
+PROJ003,AI-Powered Customer Analytics,EMP010,Miguel Ángel Herrera,5.43,2024-04-01,2024-12-23
+PROJ003,AI-Powered Customer Analytics,EMP029,Claudia Reyes Mora,2.47,2024-04-01,2024-12-23
+PROJ003,AI-Powered Customer Analytics,EMP003,María Fernández Silva,8.64,2024-04-01,2024-12-23
+PROJ003,AI-Powered Customer Analytics,EMP001,Ana García Rodríguez,7.9,2024-04-01,2024-12-23
+PROJ004,Healthcare Management System,EMP004,Javier Ruiz Díaz,4.18,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP026,Oscar Núñez Lira,2.51,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP015,Patricia Navarro Sol,3.01,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP009,Sofia Almeida Costa,5.86,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP003,María Fernández Silva,5.86,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP012,Pedro Jiménez Rojas,2.01,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP006,David Chen Wong,3.35,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP016,Ricardo Gómez Flores,4.18,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP019,Lucía Hernández Vega,5.36,2024-03-10,2025-02-23
+PROJ004,Healthcare Management System,EMP010,Miguel Ángel Herrera,3.68,2024-03-10,2025-02-23
+PROJ005,IoT Smart Home Platform,EMP002,Carlos López Martínez,8.36,2024-04-15,2024-09-23
+PROJ005,IoT Smart Home Platform,EMP009,Sofia Almeida Costa,10.45,2024-04-15,2024-09-23
+PROJ005,IoT Smart Home Platform,EMP010,Miguel Ángel Herrera,6.57,2024-04-15,2024-09-23
+PROJ005,IoT Smart Home Platform,EMP013,Carmen Vega Castro,5.07,2024-04-15,2024-09-23
+PROJ005,IoT Smart Home Platform,EMP007,Elena Torres Navarro,9.55,2024-04-15,2024-09-23
+PROJ006,Blockchain Supply Chain Solution,EMP013,Carmen Vega Castro,3.18,2024-05-01,2025-03-12
+PROJ006,Blockchain Supply Chain Solution,EMP002,Carlos López Martínez,5.23,2024-05-01,2025-03-12
+PROJ006,Blockchain Supply Chain Solution,EMP003,María Fernández Silva,6.54,2024-05-01,2025-03-12
+PROJ006,Blockchain Supply Chain Solution,EMP028,Héctor Vargas Paz,3.18,2024-05-01,2025-03-12
+PROJ006,Blockchain Supply Chain Solution,EMP019,Lucía Hernández Vega,5.98,2024-05-01,2025-03-12
+PROJ006,Blockchain Supply Chain Solution,EMP021,Andrea Mendoza Paredes,6.54,2024-05-01,2025-03-12
+PROJ006,Blockchain Supply Chain Solution,EMP006,David Chen Wong,3.74,2024-05-01,2025-03-12
+PROJ006,Blockchain Supply Chain Solution,EMP023,Natalia Ríos Campos,5.61,2024-05-01,2025-03-12
+PROJ007,Educational LMS Platform,EMP001,Ana García Rodríguez,7.71,2024-03-20,2024-10-02
+PROJ007,Educational LMS Platform,EMP030,Jorge Álvarez Duarte,4.34,2024-03-20,2024-10-02
+PROJ007,Educational LMS Platform,EMP010,Miguel Ángel Herrera,5.3,2024-03-20,2024-10-02
+PROJ007,Educational LMS Platform,EMP019,Lucía Hernández Vega,7.71,2024-03-20,2024-10-02
+PROJ007,Educational LMS Platform,EMP007,Elena Torres Navarro,7.71,2024-03-20,2024-10-02
+PROJ007,Educational LMS Platform,EMP005,Laura Martínez Gómez,7.23,2024-03-20,2024-10-02
+PROJ008,Real Estate Virtual Tours,EMP009,Sofia Almeida Costa,10.61,2024-04-05,2024-08-09
+PROJ008,Real Estate Virtual Tours,EMP019,Lucía Hernández Vega,9.7,2024-04-05,2024-08-09
+PROJ008,Real Estate Virtual Tours,EMP020,Diego Ramírez Soto,8.48,2024-04-05,2024-08-09
+PROJ008,Real Estate Virtual Tours,EMP011,Isabel Ortega Méndez,4.55,2024-04-05,2024-08-09
+PROJ008,Real Estate Virtual Tours,EMP010,Miguel Ángel Herrera,6.67,2024-04-05,2024-08-09
+PROJ009,HR Recruitment Automation,EMP002,Carlos López Martínez,6.4,2024-05-10,2024-10-25
+PROJ009,HR Recruitment Automation,EMP023,Natalia Ríos Campos,6.86,2024-05-10,2024-10-25
+PROJ009,HR Recruitment Automation,EMP001,Ana García Rodríguez,7.31,2024-05-10,2024-10-25
+PROJ009,HR Recruitment Automation,EMP020,Diego Ramírez Soto,6.4,2024-05-10,2024-10-25
+PROJ009,HR Recruitment Automation,EMP003,María Fernández Silva,8.0,2024-05-10,2024-10-25
+PROJ009,HR Recruitment Automation,EMP010,Miguel Ángel Herrera,5.03,2024-05-10,2024-10-25
+PROJ010,Social Media Analytics Dashboard,EMP010,Miguel Ángel Herrera,8.89,2024-03-25,2024-07-08
+PROJ010,Social Media Analytics Dashboard,EMP012,Pedro Jiménez Rojas,4.85,2024-03-25,2024-07-08
+PROJ010,Social Media Analytics Dashboard,EMP017,Mónica Silva Pereira,12.12,2024-03-25,2024-07-08
+PROJ010,Social Media Analytics Dashboard,EMP003,María Fernández Silva,14.14,2024-03-25,2024-07-08
+PROJ011,Fitness Tracking Mobile App,EMP025,Valeria Cruz Montes,7.36,2024-04-20,2024-09-21
+PROJ011,Fitness Tracking Mobile App,EMP009,Sofia Almeida Costa,8.05,2024-04-20,2024-09-21
+PROJ011,Fitness Tracking Mobile App,EMP016,Ricardo Gómez Flores,5.75,2024-04-20,2024-09-21
+PROJ011,Fitness Tracking Mobile App,EMP001,Ana García Rodríguez,7.36,2024-04-20,2024-09-21
+PROJ011,Fitness Tracking Mobile App,EMP020,Diego Ramírez Soto,6.44,2024-04-20,2024-09-21
+PROJ011,Fitness Tracking Mobile App,EMP010,Miguel Ángel Herrera,5.06,2024-04-20,2024-09-21
+PROJ012,Digital Payment Gateway,EMP011,Isabel Ortega Méndez,3.75,2024-05-05,2024-12-22
+PROJ012,Digital Payment Gateway,EMP019,Lucía Hernández Vega,8.0,2024-05-05,2024-12-22
+PROJ012,Digital Payment Gateway,EMP010,Miguel Ángel Herrera,5.5,2024-05-05,2024-12-22
+PROJ012,Digital Payment Gateway,EMP026,Oscar Núñez Lira,3.75,2024-05-05,2024-12-22
+PROJ012,Digital Payment Gateway,EMP006,David Chen Wong,5.0,2024-05-05,2024-12-22
+PROJ012,Digital Payment Gateway,EMP008,Roberto Santos Lima,7.0,2024-05-05,2024-12-22
+PROJ012,Digital Payment Gateway,EMP002,Carlos López Martínez,7.0,2024-05-05,2024-12-22
+PROJ013,E-learning Content Platform,EMP003,María Fernández Silva,8.75,2024-06-01,2024-11-23
+PROJ013,E-learning Content Platform,EMP010,Miguel Ángel Herrera,5.5,2024-06-01,2024-11-23
+PROJ013,E-learning Content Platform,EMP005,Laura Martínez Gómez,7.5,2024-06-01,2024-11-23
+PROJ013,E-learning Content Platform,EMP002,Carlos López Martínez,7.0,2024-06-01,2024-11-23
+PROJ013,E-learning Content Platform,EMP013,Carmen Vega Castro,4.25,2024-06-01,2024-11-23
+PROJ013,E-learning Content Platform,EMP008,Roberto Santos Lima,7.0,2024-06-01,2024-11-23
+PROJ014,Inventory Management System,EMP010,Miguel Ángel Herrera,10.73,2024-04-10,2024-08-21
+PROJ014,Inventory Management System,EMP001,Ana García Rodríguez,15.61,2024-04-10,2024-08-21
+PROJ014,Inventory Management System,EMP008,Roberto Santos Lima,13.66,2024-04-10,2024-08-21
+PROJ015,Customer Support Chatbot,EMP001,Ana García Rodríguez,10.76,2024-05-20,2024-08-26
+PROJ015,Customer Support Chatbot,EMP010,Miguel Ángel Herrera,7.39,2024-05-20,2024-08-26
+PROJ015,Customer Support Chatbot,EMP017,Mónica Silva Pereira,10.08,2024-05-20,2024-08-26
+PROJ015,Customer Support Chatbot,EMP003,María Fernández Silva,11.76,2024-05-20,2024-08-26
+PROJ016,Project Management Tool,EMP002,Carlos López Martínez,8.62,2024-06-10,2025-01-06
+PROJ016,Project Management Tool,EMP009,Sofia Almeida Costa,10.77,2024-06-10,2025-01-06
+PROJ016,Project Management Tool,EMP003,María Fernández Silva,10.77,2024-06-10,2025-01-06
+PROJ016,Project Management Tool,EMP001,Ana García Rodríguez,9.85,2024-06-10,2025-01-06
+PROJ017,Healthcare Telemedicine App,EMP010,Miguel Ángel Herrera,4.23,2024-07-01,2025-03-10
+PROJ017,Healthcare Telemedicine App,EMP001,Ana García Rodríguez,6.15,2024-07-01,2025-03-10
+PROJ017,Healthcare Telemedicine App,EMP003,María Fernández Silva,6.73,2024-07-01,2025-03-10
+PROJ017,Healthcare Telemedicine App,EMP030,Jorge Álvarez Duarte,3.46,2024-07-01,2025-03-10
+PROJ017,Healthcare Telemedicine App,EMP023,Natalia Ríos Campos,5.77,2024-07-01,2025-03-10
+PROJ017,Healthcare Telemedicine App,EMP004,Javier Ruiz Díaz,4.81,2024-07-01,2025-03-10
+PROJ017,Healthcare Telemedicine App,EMP008,Roberto Santos Lima,5.38,2024-07-01,2025-03-10
+PROJ017,Healthcare Telemedicine App,EMP015,Patricia Navarro Sol,3.46,2024-07-01,2025-03-10
+PROJ018,Restaurant Booking System,EMP025,Valeria Cruz Montes,9.34,2024-05-15,2024-09-11
+PROJ018,Restaurant Booking System,EMP030,Jorge Álvarez Duarte,5.26,2024-05-15,2024-09-11
+PROJ018,Restaurant Booking System,EMP023,Natalia Ríos Campos,8.76,2024-05-15,2024-09-11
+PROJ018,Restaurant Booking System,EMP001,Ana García Rodríguez,9.34,2024-05-15,2024-09-11
+PROJ018,Restaurant Booking System,EMP004,Javier Ruiz Díaz,7.3,2024-05-15,2024-09-11
+PROJ019,Travel Planning Platform,EMP001,Ana García Rodríguez,9.7,2024-06-20,2025-01-02
+PROJ019,Travel Planning Platform,EMP005,Laura Martínez Gómez,9.09,2024-06-20,2025-01-02
+PROJ019,Travel Planning Platform,EMP016,Ricardo Gómez Flores,7.58,2024-06-20,2025-01-02
+PROJ019,Travel Planning Platform,EMP024,Gabriel Torres Rojas,7.58,2024-06-20,2025-01-02
+PROJ019,Travel Planning Platform,EMP006,David Chen Wong,6.06,2024-06-20,2025-01-02
+PROJ020,Financial Portfolio Manager,EMP023,Natalia Ríos Campos,7.27,2024-04-25,2024-10-03
+PROJ020,Financial Portfolio Manager,EMP008,Roberto Santos Lima,6.79,2024-04-25,2024-10-03
+PROJ020,Financial Portfolio Manager,EMP012,Pedro Jiménez Rojas,2.91,2024-04-25,2024-10-03
+PROJ020,Financial Portfolio Manager,EMP003,María Fernández Silva,8.48,2024-04-25,2024-10-03
+PROJ020,Financial Portfolio Manager,EMP001,Ana García Rodríguez,7.76,2024-04-25,2024-10-03
+PROJ020,Financial Portfolio Manager,EMP002,Carlos López Martínez,6.79,2024-04-25,2024-10-03

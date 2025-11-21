@@ -1,0 +1,380 @@
+{
+  "projects": [
+    {
+      "id": "PROJ001",
+      "name": "E-commerce Platform Modernization",
+      "start_date": "2024-03-01",
+      "estimated_hours": 1200,
+      "priority": "high",
+      "skill_requirements": {
+        "frontend": {"min_level": 0.8, "hours_needed": 300},
+        "backend": {"min_level": 0.7, "hours_needed": 400},
+        "devops": {"min_level": 0.6, "hours_needed": 100},
+        "testing": {"min_level": 0.7, "hours_needed": 120},
+        "pm": {"min_level": 0.8, "hours_needed": 120},
+        "documentation": {"min_level": 0.6, "hours_needed": 160}
+      },
+      "constraints": {
+        "max_team_size": 8,
+        "completion_deadline": "2024-06-30"
+      }
+    },
+    {
+      "id": "PROJ002",
+      "name": "Mobile Banking App Redesign",
+      "start_date": "2024-03-15",
+      "estimated_hours": 800,
+      "priority": "high",
+      "skill_requirements": {
+        "mobile": {"min_level": 0.8, "hours_needed": 280},
+        "backend": {"min_level": 0.7, "hours_needed": 200},
+        "ux_ui": {"min_level": 0.8, "hours_needed": 120},
+        "testing": {"min_level": 0.7, "hours_needed": 80},
+        "pm": {"min_level": 0.7, "hours_needed": 80},
+        "documentation": {"min_level": 0.6, "hours_needed": 40}
+      },
+      "constraints": {
+        "max_team_size": 6,
+        "completion_deadline": "2024-05-31"
+      }
+    },
+    {
+      "id": "PROJ003",
+      "name": "AI-Powered Customer Analytics",
+      "start_date": "2024-04-01",
+      "estimated_hours": 1500,
+      "priority": "medium",
+      "skill_requirements": {
+        "data_science": {"min_level": 0.8, "hours_needed": 450},
+        "ai_ml": {"min_level": 0.7, "hours_needed": 400},
+        "backend": {"min_level": 0.6, "hours_needed": 300},
+        "database": {"min_level": 0.7, "hours_needed": 200},
+        "testing": {"min_level": 0.6, "hours_needed": 75},
+        "pm": {"min_level": 0.7, "hours_needed": 75}
+      },
+      "constraints": {
+        "max_team_size": 7,
+        "completion_deadline": "2024-08-15"
+      }
+    },
+    {
+      "id": "PROJ004",
+      "name": "Healthcare Management System",
+      "start_date": "2024-03-10",
+      "estimated_hours": 2000,
+      "priority": "high",
+      "skill_requirements": {
+        "backend": {"min_level": 0.8, "hours_needed": 600},
+        "database": {"min_level": 0.8, "hours_needed": 400},
+        "frontend": {"min_level": 0.7, "hours_needed": 400},
+        "devops": {"min_level": 0.7, "hours_needed": 200},
+        "testing": {"min_level": 0.7, "hours_needed": 200},
+        "pm": {"min_level": 0.8, "hours_needed": 200}
+      },
+      "constraints": {
+        "max_team_size": 10,
+        "completion_deadline": "2024-09-30"
+      }
+    },
+    {
+      "id": "PROJ005",
+      "name": "IoT Smart Home Platform",
+      "start_date": "2024-04-15",
+      "estimated_hours": 900,
+      "priority": "medium",
+      "skill_requirements": {
+        "backend": {"min_level": 0.7, "hours_needed": 300},
+        "mobile": {"min_level": 0.7, "hours_needed": 200},
+        "frontend": {"min_level": 0.6, "hours_needed": 150},
+        "devops": {"min_level": 0.6, "hours_needed": 100},
+        "testing": {"min_level": 0.6, "hours_needed": 75},
+        "pm": {"min_level": 0.7, "hours_needed": 75}
+      },
+      "constraints": {
+        "max_team_size": 6,
+        "completion_deadline": "2024-07-31"
+      }
+    },
+    {
+      "id": "PROJ006",
+      "name": "Blockchain Supply Chain Solution",
+      "start_date": "2024-05-01",
+      "estimated_hours": 1800,
+      "priority": "low",
+      "skill_requirements": {
+        "backend": {"min_level": 0.8, "hours_needed": 600},
+        "database": {"min_level": 0.8, "hours_needed": 400},
+        "devops": {"min_level": 0.7, "hours_needed": 300},
+        "frontend": {"min_level": 0.6, "hours_needed": 200},
+        "testing": {"min_level": 0.7, "hours_needed": 150},
+        "pm": {"min_level": 0.8, "hours_needed": 150}
+      },
+      "constraints": {
+        "max_team_size": 8,
+        "completion_deadline": "2024-10-31"
+      }
+    },
+    {
+      "id": "PROJ007",
+      "name": "Educational LMS Platform",
+      "start_date": "2024-03-20",
+      "estimated_hours": 1100,
+      "priority": "medium",
+      "skill_requirements": {
+        "frontend": {"min_level": 0.7, "hours_needed": 350},
+        "backend": {"min_level": 0.7, "hours_needed": 300},
+        "database": {"min_level": 0.6, "hours_needed": 150},
+        "ux_ui": {"min_level": 0.7, "hours_needed": 120},
+        "testing": {"min_level": 0.6, "hours_needed": 90},
+        "pm": {"min_level": 0.7, "hours_needed": 90}
+      },
+      "constraints": {
+        "max_team_size": 7,
+        "completion_deadline": "2024-07-15"
+      }
+    },
+    {
+      "id": "PROJ008",
+      "name": "Real Estate Virtual Tours",
+      "start_date": "2024-04-05",
+      "estimated_hours": 700,
+      "priority": "medium",
+      "skill_requirements": {
+        "frontend": {"min_level": 0.8, "hours_needed": 250},
+        "ux_ui": {"min_level": 0.8, "hours_needed": 150},
+        "backend": {"min_level": 0.6, "hours_needed": 120},
+        "mobile": {"min_level": 0.6, "hours_needed": 80},
+        "testing": {"min_level": 0.6, "hours_needed": 50},
+        "pm": {"min_level": 0.6, "hours_needed": 50}
+      },
+      "constraints": {
+        "max_team_size": 5,
+        "completion_deadline": "2024-06-30"
+      }
+    },
+    {
+      "id": "PROJ009",
+      "name": "HR Recruitment Automation",
+      "start_date": "2024-05-10",
+      "estimated_hours": 950,
+      "priority": "high",
+      "skill_requirements": {
+        "backend": {"min_level": 0.7, "hours_needed": 350},
+        "ai_ml": {"min_level": 0.7, "hours_needed": 200},
+        "frontend": {"min_level": 0.6, "hours_needed": 150},
+        "database": {"min_level": 0.6, "hours_needed": 100},
+        "testing": {"min_level": 0.6, "hours_needed": 75},
+        "pm": {"min_level": 0.7, "hours_needed": 75}
+      },
+      "constraints": {
+        "max_team_size": 6,
+        "completion_deadline": "2024-08-31"
+      }
+    },
+    {
+      "id": "PROJ010",
+      "name": "Social Media Analytics Dashboard",
+      "start_date": "2024-03-25",
+      "estimated_hours": 600,
+      "priority": "medium",
+      "skill_requirements": {
+        "data_science": {"min_level": 0.7, "hours_needed": 200},
+        "frontend": {"min_level": 0.7, "hours_needed": 150},
+        "backend": {"min_level": 0.6, "hours_needed": 100},
+        "ux_ui": {"min_level": 0.6, "hours_needed": 60},
+        "testing": {"min_level": 0.6, "hours_needed": 45},
+        "pm": {"min_level": 0.6, "hours_needed": 45}
+      },
+      "constraints": {
+        "max_team_size": 5,
+        "completion_deadline": "2024-06-15"
+      }
+    },
+    {
+      "id": "PROJ011",
+      "name": "Fitness Tracking Mobile App",
+      "start_date": "2024-04-20",
+      "estimated_hours": 850,
+      "priority": "medium",
+      "skill_requirements": {
+        "mobile": {"min_level": 0.8, "hours_needed": 300},
+        "backend": {"min_level": 0.7, "hours_needed": 200},
+        "frontend": {"min_level": 0.6, "hours_needed": 150},
+        "ux_ui": {"min_level": 0.7, "hours_needed": 80},
+        "testing": {"min_level": 0.6, "hours_needed": 60},
+        "pm": {"min_level": 0.6, "hours_needed": 60}
+      },
+      "constraints": {
+        "max_team_size": 6,
+        "completion_deadline": "2024-07-31"
+      }
+    },
+    {
+      "id": "PROJ012",
+      "name": "Digital Payment Gateway",
+      "start_date": "2024-05-05",
+      "estimated_hours": 1300,
+      "priority": "high",
+      "skill_requirements": {
+        "backend": {"min_level": 0.9, "hours_needed": 500},
+        "devops": {"min_level": 0.8, "hours_needed": 300},
+        "database": {"min_level": 0.8, "hours_needed": 200},
+        "testing": {"min_level": 0.8, "hours_needed": 150},
+        "pm": {"min_level": 0.8, "hours_needed": 150}
+      },
+      "constraints": {
+        "max_team_size": 7,
+        "completion_deadline": "2024-09-15"
+      }
+    },
+    {
+      "id": "PROJ013",
+      "name": "E-learning Content Platform",
+      "start_date": "2024-06-01",
+      "estimated_hours": 1000,
+      "priority": "medium",
+      "skill_requirements": {
+        "frontend": {"min_level": 0.7, "hours_needed": 350},
+        "backend": {"min_level": 0.6, "hours_needed": 250},
+        "ux_ui": {"min_level": 0.7, "hours_needed": 150},
+        "database": {"min_level": 0.6, "hours_needed": 100},
+        "testing": {"min_level": 0.6, "hours_needed": 75},
+        "pm": {"min_level": 0.7, "hours_needed": 75}
+      },
+      "constraints": {
+        "max_team_size": 6,
+        "completion_deadline": "2024-09-30"
+      }
+    },
+    {
+      "id": "PROJ014",
+      "name": "Inventory Management System",
+      "start_date": "2024-04-10",
+      "estimated_hours": 750,
+      "priority": "high",
+      "skill_requirements": {
+        "backend": {"min_level": 0.7, "hours_needed": 300},
+        "database": {"min_level": 0.7, "hours_needed": 200},
+        "frontend": {"min_level": 0.6, "hours_needed": 120},
+        "testing": {"min_level": 0.6, "hours_needed": 65},
+        "pm": {"min_level": 0.7, "hours_needed": 65}
+      },
+      "constraints": {
+        "max_team_size": 5,
+        "completion_deadline": "2024-07-15"
+      }
+    },
+    {
+      "id": "PROJ015",
+      "name": "Customer Support Chatbot",
+      "start_date": "2024-05-20",
+      "estimated_hours": 550,
+      "priority": "medium",
+      "skill_requirements": {
+        "ai_ml": {"min_level": 0.7, "hours_needed": 200},
+        "backend": {"min_level": 0.6, "hours_needed": 150},
+        "frontend": {"min_level": 0.6, "hours_needed": 80},
+        "testing": {"min_level": 0.6, "hours_needed": 60},
+        "pm": {"min_level": 0.6, "hours_needed": 60}
+      },
+      "constraints": {
+        "max_team_size": 4,
+        "completion_deadline": "2024-07-31"
+      }
+    },
+    {
+      "id": "PROJ016",
+      "name": "Project Management Tool",
+      "start_date": "2024-06-10",
+      "estimated_hours": 1200,
+      "priority": "medium",
+      "skill_requirements": {
+        "frontend": {"min_level": 0.8, "hours_needed": 400},
+        "backend": {"min_level": 0.7, "hours_needed": 350},
+        "database": {"min_level": 0.6, "hours_needed": 150},
+        "ux_ui": {"min_level": 0.7, "hours_needed": 120},
+        "testing": {"min_level": 0.6, "hours_needed": 90},
+        "pm": {"min_level": 0.7, "hours_needed": 90}
+      },
+      "constraints": {
+        "max_team_size": 7,
+        "completion_deadline": "2024-10-15"
+      }
+    },
+    {
+      "id": "PROJ017",
+      "name": "Healthcare Telemedicine App",
+      "start_date": "2024-07-01",
+      "estimated_hours": 1400,
+      "priority": "high",
+      "skill_requirements": {
+        "mobile": {"min_level": 0.8, "hours_needed": 500},
+        "backend": {"min_level": 0.8, "hours_needed": 400},
+        "frontend": {"min_level": 0.7, "hours_needed": 200},
+        "devops": {"min_level": 0.7, "hours_needed": 150},
+        "testing": {"min_level": 0.7, "hours_needed": 75},
+        "pm": {"min_level": 0.8, "hours_needed": 75}
+      },
+      "constraints": {
+        "max_team_size": 8,
+        "completion_deadline": "2024-11-30"
+      }
+    },
+    {
+      "id": "PROJ018",
+      "name": "Restaurant Booking System",
+      "start_date": "2024-05-15",
+      "estimated_hours": 650,
+      "priority": "low",
+      "skill_requirements": {
+        "frontend": {"min_level": 0.7, "hours_needed": 250},
+        "backend": {"min_level": 0.6, "hours_needed": 200},
+        "mobile": {"min_level": 0.6, "hours_needed": 80},
+        "testing": {"min_level": 0.6, "hours_needed": 60},
+        "pm": {"min_level": 0.6, "hours_needed": 60}
+      },
+      "constraints": {
+        "max_team_size": 5,
+        "completion_deadline": "2024-08-15"
+      }
+    },
+    {
+      "id": "PROJ019",
+      "name": "Travel Planning Platform",
+      "start_date": "2024-06-20",
+      "estimated_hours": 1100,
+      "priority": "medium",
+      "skill_requirements": {
+        "frontend": {"min_level": 0.7, "hours_needed": 400},
+        "backend": {"min_level": 0.7, "hours_needed": 350},
+        "ux_ui": {"min_level": 0.7, "hours_needed": 150},
+        "database": {"min_level": 0.6, "hours_needed": 100},
+        "testing": {"min_level": 0.6, "hours_needed": 50},
+        "pm": {"min_level": 0.7, "hours_needed": 50}
+      },
+      "constraints": {
+        "max_team_size": 6,
+        "completion_deadline": "2024-10-31"
+      }
+    },
+    {
+      "id": "PROJ020",
+      "name": "Financial Portfolio Manager",
+      "start_date": "2024-04-25",
+      "estimated_hours": 900,
+      "priority": "high",
+      "skill_requirements": {
+        "backend": {"min_level": 0.8, "hours_needed": 350},
+        "data_science": {"min_level": 0.7, "hours_needed": 250},
+        "frontend": {"min_level": 0.7, "hours_needed": 150},
+        "database": {"min_level": 0.7, "hours_needed": 75},
+        "testing": {"min_level": 0.7, "hours_needed": 45},
+        "pm": {"min_level": 0.7, "hours_needed": 30}
+      },
+      "constraints": {
+        "max_team_size": 6,
+        "completion_deadline": "2024-08-15"
+      }
+    }
+  ]
+}

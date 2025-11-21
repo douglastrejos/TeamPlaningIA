@@ -1,0 +1,597 @@
+{
+  "employees": [
+    {
+      "id": "EMP001",
+      "name": "Ana García Rodríguez",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 8,
+      "available_hours": 32,
+      "skills": {
+        "frontend": 0.9,
+        "backend": 0.7,
+        "mobile": 0.6,
+        "testing": 0.8,
+        "pm": 0.8,
+        "documentation": 0.7,
+        "ux_ui": 0.6
+      },
+      "preferences": {
+        "max_projects": 3,
+        "preferred_skills": ["frontend", "pm"],
+        "avoid_skills": ["devops"]
+      }
+    },
+    {
+      "id": "EMP002",
+      "name": "Carlos López Martínez",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 12,
+      "available_hours": 28,
+      "skills": {
+        "backend": 0.9,
+        "devops": 0.8,
+        "database": 0.7,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["backend", "devops"],
+        "avoid_skills": ["ux_ui"]
+      }
+    },
+    {
+      "id": "EMP003",
+      "name": "María Fernández Silva",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 5,
+      "available_hours": 35,
+      "skills": {
+        "data_science": 0.9,
+        "backend": 0.8,
+        "database": 0.8,
+        "ai_ml": 0.7,
+        "documentation": 0.8,
+        "testing": 0.6
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["data_science", "ai_ml"],
+        "avoid_skills": ["frontend"]
+      }
+    },
+    {
+      "id": "EMP004",
+      "name": "Javier Ruiz Díaz",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 15,
+      "available_hours": 25,
+      "skills": {
+        "mobile": 0.9,
+        "frontend": 0.7,
+        "backend": 0.6,
+        "testing": 0.7,
+        "documentation": 0.6
+      },
+      "preferences": {
+        "max_projects": 3,
+        "preferred_skills": ["mobile", "frontend"],
+        "avoid_skills": ["devops"]
+      }
+    },
+    {
+      "id": "EMP005",
+      "name": "Laura Martínez Gómez",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 10,
+      "available_hours": 30,
+      "skills": {
+        "ux_ui": 0.9,
+        "frontend": 0.8,
+        "testing": 0.7,
+        "documentation": 0.8,
+        "pm": 0.6
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["ux_ui", "frontend"],
+        "avoid_skills": ["backend"]
+      }
+    },
+    {
+      "id": "EMP006",
+      "name": "David Chen Wong",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 20,
+      "available_hours": 20,
+      "skills": {
+        "devops": 0.9,
+        "backend": 0.8,
+        "database": 0.7,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 1,
+        "preferred_skills": ["devops"],
+        "avoid_skills": ["ux_ui"]
+      }
+    },
+    {
+      "id": "EMP007",
+      "name": "Elena Torres Navarro",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 8,
+      "available_hours": 32,
+      "skills": {
+        "ai_ml": 0.9,
+        "data_science": 0.8,
+        "backend": 0.7,
+        "documentation": 0.7,
+        "testing": 0.6
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["ai_ml", "data_science"],
+        "avoid_skills": ["frontend"]
+      }
+    },
+    {
+      "id": "EMP008",
+      "name": "Roberto Santos Lima",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 12,
+      "available_hours": 28,
+      "skills": {
+        "database": 0.9,
+        "backend": 0.8,
+        "devops": 0.7,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["database", "backend"],
+        "avoid_skills": ["ux_ui"]
+      }
+    },
+    {
+      "id": "EMP009",
+      "name": "Sofia Almeida Costa",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 5,
+      "available_hours": 35,
+      "skills": {
+        "frontend": 0.9,
+        "ux_ui": 0.8,
+        "mobile": 0.7,
+        "testing": 0.7,
+        "documentation": 0.6
+      },
+      "preferences": {
+        "max_projects": 3,
+        "preferred_skills": ["frontend", "ux_ui"],
+        "avoid_skills": ["devops"]
+      }
+    },
+    {
+      "id": "EMP010",
+      "name": "Miguel Ángel Herrera",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 18,
+      "available_hours": 22,
+      "skills": {
+        "pm": 0.9,
+        "documentation": 0.8,
+        "frontend": 0.6,
+        "backend": 0.5,
+        "testing": 0.7
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["pm", "documentation"],
+        "avoid_skills": ["devops"]
+      }
+    },
+    {
+      "id": "EMP011",
+      "name": "Isabel Ortega Méndez",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 5,
+      "available_hours": 15,
+      "skills": {
+        "testing": 0.9,
+        "documentation": 0.8,
+        "frontend": 0.6,
+        "backend": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["testing", "documentation"],
+        "avoid_skills": ["pm"]
+      }
+    },
+    {
+      "id": "EMP012",
+      "name": "Pedro Jiménez Rojas",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 8,
+      "available_hours": 12,
+      "skills": {
+        "backend": 0.8,
+        "database": 0.7,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 1,
+        "preferred_skills": ["backend"],
+        "avoid_skills": ["frontend"]
+      }
+    },
+    {
+      "id": "EMP013",
+      "name": "Carmen Vega Castro",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 3,
+      "available_hours": 17,
+      "skills": {
+        "ux_ui": 0.8,
+        "frontend": 0.7,
+        "documentation": 0.7,
+        "testing": 0.6
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["ux_ui", "frontend"],
+        "avoid_skills": ["backend"]
+      }
+    },
+    {
+      "id": "EMP014",
+      "name": "Alejandro Morales Ruiz",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 10,
+      "available_hours": 10,
+      "skills": {
+        "data_science": 0.8,
+        "ai_ml": 0.7,
+        "documentation": 0.6,
+        "testing": 0.5
+      },
+      "preferences": {
+        "max_projects": 1,
+        "preferred_skills": ["data_science"],
+        "avoid_skills": ["pm"]
+      }
+    },
+    {
+      "id": "EMP015",
+      "name": "Patricia Navarro Sol",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 2,
+      "available_hours": 18,
+      "skills": {
+        "mobile": 0.8,
+        "frontend": 0.7,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["mobile"],
+        "avoid_skills": ["backend"]
+      }
+    },
+    {
+      "id": "EMP016",
+      "name": "Ricardo Gómez Flores",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 15,
+      "available_hours": 25,
+      "skills": {
+        "backend": 0.8,
+        "devops": 0.7,
+        "database": 0.7,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["backend", "devops"],
+        "avoid_skills": ["ux_ui"]
+      }
+    },
+    {
+      "id": "EMP017",
+      "name": "Mónica Silva Pereira",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 10,
+      "available_hours": 30,
+      "skills": {
+        "frontend": 0.8,
+        "ux_ui": 0.8,
+        "testing": 0.7,
+        "documentation": 0.6,
+        "pm": 0.5
+      },
+      "preferences": {
+        "max_projects": 3,
+        "preferred_skills": ["frontend", "ux_ui"],
+        "avoid_skills": ["devops"]
+      }
+    },
+    {
+      "id": "EMP018",
+      "name": "Fernando Castro León",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 20,
+      "available_hours": 20,
+      "skills": {
+        "ai_ml": 0.8,
+        "data_science": 0.8,
+        "backend": 0.6,
+        "documentation": 0.6,
+        "testing": 0.5
+      },
+      "preferences": {
+        "max_projects": 1,
+        "preferred_skills": ["ai_ml"],
+        "avoid_skills": ["frontend"]
+      }
+    },
+    {
+      "id": "EMP019",
+      "name": "Lucía Hernández Vega",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 8,
+      "available_hours": 32,
+      "skills": {
+        "database": 0.8,
+        "backend": 0.7,
+        "devops": 0.6,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["database"],
+        "avoid_skills": ["ux_ui"]
+      }
+    },
+    {
+      "id": "EMP020",
+      "name": "Diego Ramírez Soto",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 12,
+      "available_hours": 28,
+      "skills": {
+        "mobile": 0.8,
+        "frontend": 0.7,
+        "backend": 0.6,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["mobile"],
+        "avoid_skills": ["devops"]
+      }
+    },
+    {
+      "id": "EMP021",
+      "name": "Andrea Mendoza Paredes",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 5,
+      "available_hours": 35,
+      "skills": {
+        "pm": 0.8,
+        "documentation": 0.8,
+        "testing": 0.7,
+        "frontend": 0.5,
+        "backend": 0.4
+      },
+      "preferences": {
+        "max_projects": 3,
+        "preferred_skills": ["pm", "documentation"],
+        "avoid_skills": ["devops"]
+      }
+    },
+    {
+      "id": "EMP022",
+      "name": "Sergio Delgado Mora",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 18,
+      "available_hours": 22,
+      "skills": {
+        "devops": 0.8,
+        "backend": 0.7,
+        "database": 0.6,
+        "testing": 0.5,
+        "documentation": 0.4
+      },
+      "preferences": {
+        "max_projects": 1,
+        "preferred_skills": ["devops"],
+        "avoid_skills": ["ux_ui"]
+      }
+    },
+    {
+      "id": "EMP023",
+      "name": "Natalia Ríos Campos",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 10,
+      "available_hours": 30,
+      "skills": {
+        "frontend": 0.8,
+        "ux_ui": 0.7,
+        "mobile": 0.6,
+        "testing": 0.6,
+        "documentation": 0.5
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["frontend"],
+        "avoid_skills": ["backend"]
+      }
+    },
+    {
+      "id": "EMP024",
+      "name": "Gabriel Torres Rojas",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 15,
+      "available_hours": 25,
+      "skills": {
+        "backend": 0.8,
+        "data_science": 0.7,
+        "database": 0.6,
+        "testing": 0.5,
+        "documentation": 0.4
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["backend", "data_science"],
+        "avoid_skills": ["ux_ui"]
+      }
+    },
+    {
+      "id": "EMP025",
+      "name": "Valeria Cruz Montes",
+      "type": "full-time",
+      "weekly_hours": 40,
+      "current_commitment": 8,
+      "available_hours": 32,
+      "skills": {
+        "ai_ml": 0.8,
+        "backend": 0.7,
+        "data_science": 0.6,
+        "testing": 0.5,
+        "documentation": 0.4
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["ai_ml"],
+        "avoid_skills": ["frontend"]
+      }
+    },
+    {
+      "id": "EMP026",
+      "name": "Oscar Núñez Lira",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 5,
+      "available_hours": 15,
+      "skills": {
+        "testing": 0.8,
+        "documentation": 0.7,
+        "frontend": 0.5,
+        "backend": 0.4
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["testing"],
+        "avoid_skills": ["pm"]
+      }
+    },
+    {
+      "id": "EMP027",
+      "name": "Raquel Medina Soto",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 8,
+      "available_hours": 12,
+      "skills": {
+        "ux_ui": 0.8,
+        "frontend": 0.6,
+        "documentation": 0.6,
+        "testing": 0.5
+      },
+      "preferences": {
+        "max_projects": 1,
+        "preferred_skills": ["ux_ui"],
+        "avoid_skills": ["backend"]
+      }
+    },
+    {
+      "id": "EMP028",
+      "name": "Héctor Vargas Paz",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 3,
+      "available_hours": 17,
+      "skills": {
+        "mobile": 0.8,
+        "frontend": 0.6,
+        "testing": 0.5,
+        "documentation": 0.4
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["mobile"],
+        "avoid_skills": ["backend"]
+      }
+    },
+    {
+      "id": "EMP029",
+      "name": "Claudia Reyes Mora",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 10,
+      "available_hours": 10,
+      "skills": {
+        "data_science": 0.8,
+        "documentation": 0.6,
+        "testing": 0.5,
+        "backend": 0.4
+      },
+      "preferences": {
+        "max_projects": 1,
+        "preferred_skills": ["data_science"],
+        "avoid_skills": ["pm"]
+      }
+    },
+    {
+      "id": "EMP030",
+      "name": "Jorge Álvarez Duarte",
+      "type": "part-time",
+      "weekly_hours": 20,
+      "current_commitment": 2,
+      "available_hours": 18,
+      "skills": {
+        "backend": 0.8,
+        "database": 0.6,
+        "testing": 0.5,
+        "documentation": 0.4
+      },
+      "preferences": {
+        "max_projects": 2,
+        "preferred_skills": ["backend"],
+        "avoid_skills": ["frontend"]
+      }
+    }
+  ]
+}

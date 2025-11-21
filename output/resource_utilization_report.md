@@ -1,0 +1,41 @@
+
+# REPORTE DE UTILIZACIÓN DE RECURSOS
+
+## RESUMEN DE UTILIZACIÓN
+- **Total de empleados asignados**: 28
+- **Bien utilizados (20-40h/semana)**: 9
+- **Sobre-utilizados (>40h/semana)**: 6
+- **Sub-utilizados (<20h/semana)**: 13
+
+## DETALLE POR EMPLEADO
+
+| Employee_ID   | Name                   |   Total_Weekly_Hours |   Number_of_Projects | Projects                                                                                                                                       |
+|:--------------|:-----------------------|---------------------:|---------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| EMP002        | Carlos López Martínez  |                45.65 |                    7 | PROJ001, PROJ002, PROJ004, PROJ006, PROJ012, PROJ013, PROJ017                                                                                  |
+| EMP026        | Oscar Núñez Lira       |                17.32 |                    4 | PROJ001, PROJ012, PROJ017, PROJ018                                                                                                             |
+| EMP001        | Ana García Rodríguez   |               155.42 |                   16 | PROJ001, PROJ004, PROJ005, PROJ006, PROJ007, PROJ008, PROJ009, PROJ010, PROJ012, PROJ013, PROJ014, PROJ015, PROJ016, PROJ018, PROJ019, PROJ020 |
+| EMP017        | Mónica Silva Pereira   |                21.77 |                    3 | PROJ001, PROJ003, PROJ009                                                                                                                      |
+| EMP006        | David Chen Wong        |                27.08 |                    5 | PROJ001, PROJ009, PROJ012, PROJ014, PROJ017                                                                                                    |
+| EMP011        | Isabel Ortega Méndez   |                40.56 |                    8 | PROJ001, PROJ003, PROJ007, PROJ011, PROJ012, PROJ014, PROJ015, PROJ018                                                                         |
+| EMP021        | Andrea Mendoza Paredes |                52.62 |                    6 | PROJ001, PROJ003, PROJ004, PROJ008, PROJ010, PROJ019                                                                                           |
+| EMP005        | Laura Martínez Gómez   |                23.02 |                    3 | PROJ002, PROJ008, PROJ016                                                                                                                      |
+| EMP003        | María Fernández Silva  |                67.13 |                    7 | PROJ002, PROJ003, PROJ004, PROJ005, PROJ010, PROJ016, PROJ020                                                                                  |
+| EMP020        | Diego Ramírez Soto     |                28.77 |                    4 | PROJ002, PROJ008, PROJ011, PROJ017                                                                                                             |
+| EMP029        | Claudia Reyes Mora     |                 2.61 |                    1 | PROJ002                                                                                                                                        |
+| EMP010        | Miguel Ángel Herrera   |                36.71 |                    7 | PROJ002, PROJ004, PROJ005, PROJ011, PROJ012, PROJ016, PROJ017                                                                                  |
+| EMP024        | Gabriel Torres Rojas   |                11.46 |                    2 | PROJ003, PROJ006                                                                                                                               |
+| EMP018        | Fernando Castro León   |                16.94 |                    2 | PROJ003, PROJ015                                                                                                                               |
+| EMP008        | Roberto Santos Lima    |                44.03 |                    6 | PROJ004, PROJ006, PROJ007, PROJ012, PROJ013, PROJ020                                                                                           |
+| EMP004        | Javier Ruiz Díaz       |                27.62 |                    4 | PROJ004, PROJ005, PROJ017, PROJ018                                                                                                             |
+| EMP016        | Ricardo Gómez Flores   |                10.72 |                    2 | PROJ004, PROJ005                                                                                                                               |
+| EMP015        | Patricia Navarro Sol   |                17.4  |                    4 | PROJ005, PROJ006, PROJ009, PROJ019                                                                                                             |
+| EMP019        | Lucía Hernández Vega   |                31.49 |                    4 | PROJ006, PROJ007, PROJ013, PROJ019                                                                                                             |
+| EMP028        | Héctor Vargas Paz      |                 3.54 |                    1 | PROJ006                                                                                                                                        |
+| EMP027        | Raquel Medina Soto     |                 5.23 |                    2 | PROJ006, PROJ007                                                                                                                               |
+| EMP009        | Sofia Almeida Costa    |                 7.95 |                    1 | PROJ007                                                                                                                                        |
+| EMP022        | Sergio Delgado Mora    |                28.88 |                    5 | PROJ007, PROJ008, PROJ010, PROJ016, PROJ019                                                                                                    |
+| EMP007        | Elena Torres Navarro   |                16.79 |                    2 | PROJ009, PROJ011                                                                                                                               |
+| EMP023        | Natalia Ríos Campos    |                34.6  |                    4 | PROJ009, PROJ011, PROJ014, PROJ017                                                                                                             |
+| EMP013        | Carmen Vega Castro     |                17.72 |                    4 | PROJ011, PROJ013, PROJ017, PROJ019                                                                                                             |
+| EMP030        | Jorge Álvarez Duarte   |                 4.21 |                    1 | PROJ016                                                                                                                                        |
+| EMP012        | Pedro Jiménez Rojas    |                 2.81 |                    1 | PROJ016                                                                                                                                        |
